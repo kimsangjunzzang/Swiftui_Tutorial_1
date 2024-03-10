@@ -1,5 +1,5 @@
-# Project files: Creating and combining views
+# Project files: Handling user input
 
-To follow the [Creating and combining views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views) tutorial, you'll create a new Xcode project as described in the first section of the tutorial. When prompted by the tutorial, you'll need the image in the **Resources** folder. To explore on your own, open the Xcode project in the **Complete** folder and browse the project's code.
+To follow the [Handling user input](https://developer.apple.com/tutorials/swiftui/handling-user-input) tutorial, start with your completed project from the previous tutorial, or open the Xcode project in the **StartingPoint** folder. To explore on your own, open the Xcode project in the **Complete** folder and browse the project's code.
 
 - Note: To preview and interact with views from the canvas in Xcode ensure your Mac is running macOS Sonoma or later.
